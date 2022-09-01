@@ -7,9 +7,9 @@
 ![Portfolio Website](/public/img/ad13.png)
 ![Portfolio Website]/public/img/ad14.png)
 
-This is the code repository for the react-admin web application.
-it was built wit react redux rechart and MUI
-i bult this webapplication to further my knowledge of redux toolkit and rechart
+This is the code repository for the react admin web application.
+it was built with redux-toolkit rechart and MUI
+i bult this webapplication to further my knowledge in content management
  
 Setup to run locally :
 - run ```npm i && npm start```
