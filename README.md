@@ -1,6 +1,6 @@
 # React-admin-dashboard #
 <p>
-  A CSS code generator built with React that generates custom CSS code snippets. This tool is useful for web developers because it can save time and improve efficiency by quickly generating CSS code for various styles.
+  A user-friendly and powerful admin dashboard built with the latest technologies such as Redux-Toolkit, Recharts, and Material-UI React. This dashboard provides an     intuitive way of managing and visualizing data for business purposes.
 </p>
 
 ## Features ##
