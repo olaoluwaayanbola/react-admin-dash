@@ -5,9 +5,10 @@
 
 ## Features ##
 <ol>
-  <li>Generates custom CSS code snippets</li>
-  <li>Built with React for a smooth user experience</li>
-  <li>Time-saving tool for web developers</li>
+  <li>Dynamic data visualization using Recharts</li>
+  <li>State management with Redux-Toolkit</li>
+  <li>Customizable and extendable design</li>
+  <li>User-friendly interface with Material-UI React</li>
 </ol>
 
 ## Getting Started ##
