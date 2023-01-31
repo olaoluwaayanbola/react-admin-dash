@@ -1,4 +1,4 @@
-# CSS Code Generator #
+# React-admin-dashboard #
 <p>
   A CSS code generator built with React that generates custom CSS code snippets. This tool is useful for web developers because it can save time and improve efficiency by quickly generating CSS code for various styles.
 </p>
@@ -18,12 +18,12 @@
 1. Clone the repository
 ---------------------
 ```
-$ git clone https://github.com/olaoluwaayanbola/css-code-generator
+$ git clone https:https://github.com/olaoluwaayanbola/react-admin-dash/
 ```
 2. Navigate to the directory:
 ---------------------
 ```
-$ cd css-code-generator
+$ cd react-admin-dash
 ```
 3. Install dependencies:
 ---------------------
